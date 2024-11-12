@@ -1,0 +1,170 @@
+[
+    {
+      "title": "Golden Pilgrimage Tour",
+      "destinations": "Varanasi, Haridwar, Rishikesh, Mathura",
+      "distance": 1500,
+      "price": 35000,
+      "maxGroupSize": 10,
+      "desc": "Ganga Aarti in Varanasi, sacred temples in Mathura, and riverfront activities in Rishikesh and Haridwar",
+      "duration": "7 Days / 6 Nights",
+      "inclusions": "Accommodation, transport, temple entry fees, tour guides, meals",
+      "reviews": [],
+  
+      "photo": "/tour-images/Golden-tour.jpg",
+      "featured": true
+    },
+    {
+      "title": "Himalayan Wellness Retreat",
+      "destinations": "Rishikesh, Dehradun, Mussoorie",
+      "distance": 520,
+      "price": 25000,
+      "maxGroupSize": 10,
+      "desc": "Easy mountain treks, yoga and meditation in Rishikesh, relaxing stays in Mussoorie",
+      "duration": "5 Days / 4 Nights",
+      "inclusions": "Accommodation, yoga sessions, wellness treatments, transport, meals",
+      "reviews": [],
+  
+      "photo": "/tour-images/Him-tour.jpg",
+      "featured": true
+    },
+    {
+      "title": "South India Temple Trail",
+      "destinations": "Chennai, Madurai, Rameshwaram, Kanyakumari",
+      "distance": 1200,
+      "price": 35000,
+      "maxGroupSize": 10,
+      "desc": "Meenakshi Temple, Ramanathaswamy Temple, sunset at Kanyakumari",
+      "duration": "6 Days / 5 Nights",
+      "inclusions": "Accommodation, transport, temple visits, local guides, meals",
+      "reviews": [],
+  
+      "photo": "/tour-images/South-tour.jpg",
+      "featured": true
+    },
+    {
+      "title": "Kerala Backwaters & Ayurveda",
+      "destinations": "Alleppey, Kumarakom, Kochi",
+      "distance": 250,
+      "price": 30000,
+      "maxGroupSize": 10,
+      "desc": "Houseboat stay in Alleppey, Ayurvedic massages, and a visit to Fort Kochi",
+      "duration": "5 Days / 4 Nights",
+      "inclusions": "Accommodation in houseboats, Ayurvedic treatments, transport, meals",
+      "reviews": [],
+  
+      "photo": "/tour-images/Kerela-tour.jpg",
+      "featured": true
+    },
+    {
+      "title": "Royal Rajasthan Heritage Tour",
+      "destinations": "Jaipur, Udaipur, Jodhpur",
+      "distance": 850,
+      "price": 38000,
+      "maxGroupSize": 10,
+      "desc": "Amber Fort, Lake Pichola boat ride, Mehrangarh Fort and a visit to Jodhpur",
+      "duration": "7 Days / 6 Nights",
+      "inclusions": "Accommodation, guided tours, transport, meals, cultural shows",
+      "reviews": [],
+  
+      "photo": "/tour-images/Royal-tour.jpg",
+      "featured": true
+    },
+    {
+      "title": "Serene Sikkim & Darjeeling Tour",
+      "destinations": "Gangtok, Darjeeling, Kalimpong",
+      "distance": 250,
+      "price": 30000,
+      "maxGroupSize": 10,
+      "desc": "Scenic views of Kanchenjunga, monasteries, Darjeeling Himalayan Railway",
+      "duration": "6 Days / 5 Nights",
+      "inclusions": "Accommodation, transport, guided sightseeing, meals",
+      "reviews": [],
+  
+      "photo": "/tour-images/Sikkim-tour.jpg",
+      "featured": true
+    },
+    {
+      "title": "Char Dham Yatra (Easy Route)",
+      "destinations": "Badrinath, Kedarnath, Gangotri, Yamunotri",
+      "distance": 1600,
+      "price": 70000,
+      "maxGroupSize": 10,
+      "desc": "Helicopter ride for Kedarnath, spiritual visit to all four sacred sites",
+      "duration": "10 Days / 9 Nights",
+      "inclusions": "Helicopter transport for Kedarnath, accommodation, temple access, meals",
+      "reviews": [],
+  
+      "photo": "/tour-images/Char-Dham-tour.jpg",
+      "featured": true
+    },
+    {
+      "title": "Spiritual Uttarakhand Tour",
+      "destinations": "Rishikesh, Haridwar, Auli",
+      "distance": 800,
+      "price": 30000,
+      "maxGroupSize": 10,
+      "desc": "Visit to the Beatles Ashram, Ganga Aarti, easy snow walks in Auli",
+      "duration": "6 Days / 5 Nights",
+      "inclusions": "Accommodation, transport, meals, sightseeing",
+      "reviews": [],
+  
+      "photo": "/tour-images/Uk-tour.jpg",
+      "featured": true
+    },
+    {
+      "title": "Cultural Gujarat Tour",
+      "destinations": "Ahmedabad, Somnath, Dwarka, Gir",
+      "distance": 250,
+      "price": 30000,
+      "maxGroupSize": 10,
+      "desc": "Somnath Temple, Dwarka sightseeing, visit to the Gir National Park",
+      "duration": "7 Days / 6 Nights",
+      "inclusions": "Accommodation, guided tours, transport, meals, and safari in Gir",
+      "reviews": [],
+  
+      "photo": "/tour-images/Cul-gujarat-tour.jpg",
+      "featured": true
+    },
+    {
+      "title": "Andaman Island Getaway",
+      "destinations": "Port Blair, Havelock Island",
+      "distance": 120,
+      "price": 32000,
+      "maxGroupSize": 10,
+      "desc": "Port Blair, Radhanagar Beach, boat rides, snorkeling (optional)",
+      "duration": "6 Days / 5 Nights",
+      "inclusions": "Accommodation, ferry tickets, sightseeing, meals",
+      "reviews": [],
+  
+      "photo": "/tour-images/Andaman-tour.jpg",
+      "featured": true
+    },
+    {
+      "title": "Majestic Himachal Tour",
+      "destinations": "Shimla, Manali, Kullu",
+      "distance": 700,
+      "price": 35000,
+      "maxGroupSize": 10,
+      "desc": "Scenic valleys, local culture, light walks through the woods, easy trekking",
+      "duration": "7 Days / 6 Nights",
+      "inclusions": "Accommodation, local transport, sightseeing, meals",
+      "reviews": [],
+  
+      "photo": "/tour-images/Himachal-tour.jpg",
+      "featured": true
+    },
+    {
+      "title": "Goa Leisure & Beach Escape",
+      "destinations": "Alleppey, Kumarakom, Kochi",
+      "distance": 250,
+      "price": 30000,
+      "maxGroupSize": 10,
+      "desc": "Beaches, peaceful resorts, old Portuguese churches, and spice plantations",
+      "duration": "5 Days / 4 Nights",
+      "inclusions": "Accommodation, beach access, Scooter for local visits, meals, sightseeing",
+      "reviews": [],
+  
+      "photo": "/tour-images/Goa-tour.jpg",
+      "featured": true
+    }
+  ]
