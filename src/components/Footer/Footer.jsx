@@ -52,7 +52,7 @@ const Footer = () => {
                 </Link>
               </span>
               <span>
-                <Link to="mailto:shristi.drolia.24mb@gmail.com">
+                <Link to="mailto:travixy@gmail.com">
                 <i className="ri-mail-fill"></i>
                 </Link>
               </span>
@@ -62,7 +62,7 @@ const Footer = () => {
                 </Link>
               </span>
               <span>
-                <Link to="https://www.linkedin.com/in/shristi-drolia-160477212/?originalSubdomain=in">
+                <Link to="#">
                   <i className="ri-linkedin-box-fill"></i>
                 </Link>
               </span>
@@ -101,7 +101,7 @@ const Footer = () => {
                     <span><i className="ri-map-pin-line"></i></span>
                     Address:
                   </h6>
-                  <p className="mb-0">Lorem ipsum dolor sit amet.</p>
+                  <p className="mb-0">Delhi</p>
                 </ListGroupItem>
                 <ListGroupItem className="ps-0 border-0 d-flex align-items-center gap-3">
                   <h6 className="mb-0 d-flex align-items-center gap-2">
