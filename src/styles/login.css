@@ -34,7 +34,7 @@
 .login__form{
     width: 40%;
 }
-.login__form input{
+.login__form input, .login__form textarea{
     width: 100%;
     padding: 0.5rem;
     border-radius: 5px;
@@ -62,8 +62,15 @@
     margin-left: 5px;
     font-weight: 500;
 }
+.contact__title{
+    border-bottom: #fff 1.5px solid;
+}
+.contact__img{
+    width: 50%;
+    align-self: center;
+}
 @media only screen and (max-width: 768px){
-    .login__img{
+    .login__img, .contact__img{
         display: none;
     }
 

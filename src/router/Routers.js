@@ -9,6 +9,7 @@ import Tours from '../pages/Tours'
 import { Navigate } from 'react-router-dom'
 import ThankYou from '../pages/ThankYou'
 import Contact from '../pages/Contact'
+import MasonryImagesGallery from '../components/image-gallery/MasonryImagesGallery'
 
 const Routers = () => {
   return (
@@ -21,6 +22,7 @@ const Routers = () => {
         <Route path="/register" element={<Register />} />
         <Route path="/thank-you" element={<ThankYou />} />
         <Route path="/tours/search" element={<SearchResultList />} />
+        <Route path="/gallery" element={<MasonryImagesGallery />} />
         <Route path="/contact" element={<Contact />} />
         
         
