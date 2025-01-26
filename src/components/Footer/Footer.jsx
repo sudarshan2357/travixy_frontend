@@ -57,12 +57,12 @@ const Footer = () => {
                 </Link>
               </span>
               <span>
-                <Link to="https://wa.me/qr/G6GOFHS54DTYF1">
+                <Link to="https://wa.me/">
                   <i className="ri-whatsapp-fill"></i>
                 </Link>
               </span>
               <span>
-                <Link to="#">
+                <Link to="https://www.linkedin.com/in/sudarshan-singh-080760257/">
                   <i className="ri-linkedin-box-fill"></i>
                 </Link>
               </span>
@@ -108,7 +108,7 @@ const Footer = () => {
                     <span><i className="ri-mail-line"></i></span>
                     Email:
                   </h6>
-                  <p className="mb-0">shristi.drolia.24mb@gmail.com</p>
+                  <p className="mb-0">rishabhsingh2537@gmail.com</p>
                 </ListGroupItem>
                 <ListGroupItem className="ps-0 border-0 d-flex align-items-center gap-3">
                   <h6 className="mb-0 d-flex align-items-center gap-2">
